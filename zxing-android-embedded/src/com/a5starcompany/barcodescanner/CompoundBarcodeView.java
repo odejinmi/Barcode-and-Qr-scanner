@@ -1,4 +1,4 @@
-package com.journeyapps.barcodescanner;
+package com.a5starcompany.barcodescanner;
 
 import android.content.Context;
 import android.util.AttributeSet;

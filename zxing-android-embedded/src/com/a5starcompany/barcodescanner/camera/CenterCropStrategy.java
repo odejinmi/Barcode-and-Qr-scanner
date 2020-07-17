@@ -1,9 +1,9 @@
-package com.journeyapps.barcodescanner.camera;
+package com.a5starcompany.barcodescanner.camera;
 
 import android.graphics.Rect;
 import android.util.Log;
 
-import com.journeyapps.barcodescanner.Size;
+import com.a5starcompany.barcodescanner.Size;
 
 /**
  * Scales the dimensions so that it fits entirely inside the parent.One of width or height will

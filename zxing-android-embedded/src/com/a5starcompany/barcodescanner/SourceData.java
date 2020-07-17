@@ -1,4 +1,4 @@
-package com.journeyapps.barcodescanner;
+package com.a5starcompany.barcodescanner;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;

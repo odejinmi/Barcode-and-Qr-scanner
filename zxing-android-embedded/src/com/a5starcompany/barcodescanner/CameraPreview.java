@@ -1,4 +1,4 @@
-package com.journeyapps.barcodescanner;
+package com.a5starcompany.barcodescanner;
 
 import android.annotation.SuppressLint;
 import android.annotation.TargetApi;
@@ -22,15 +22,15 @@ import android.view.ViewGroup;
 import android.view.WindowManager;
 
 import com.google.zxing.client.android.R;
-import com.journeyapps.barcodescanner.camera.CameraInstance;
-import com.journeyapps.barcodescanner.camera.CameraParametersCallback;
-import com.journeyapps.barcodescanner.camera.CameraSettings;
-import com.journeyapps.barcodescanner.camera.CameraSurface;
-import com.journeyapps.barcodescanner.camera.CenterCropStrategy;
-import com.journeyapps.barcodescanner.camera.FitCenterStrategy;
-import com.journeyapps.barcodescanner.camera.DisplayConfiguration;
-import com.journeyapps.barcodescanner.camera.FitXYStrategy;
-import com.journeyapps.barcodescanner.camera.PreviewScalingStrategy;
+import com.a5starcompany.barcodescanner.camera.CameraInstance;
+import com.a5starcompany.barcodescanner.camera.CameraParametersCallback;
+import com.a5starcompany.barcodescanner.camera.CameraSettings;
+import com.a5starcompany.barcodescanner.camera.CameraSurface;
+import com.a5starcompany.barcodescanner.camera.CenterCropStrategy;
+import com.a5starcompany.barcodescanner.camera.FitCenterStrategy;
+import com.a5starcompany.barcodescanner.camera.DisplayConfiguration;
+import com.a5starcompany.barcodescanner.camera.FitXYStrategy;
+import com.a5starcompany.barcodescanner.camera.PreviewScalingStrategy;
 
 import java.util.ArrayList;
 import java.util.List;

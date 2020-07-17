@@ -1,4 +1,4 @@
-package com.journeyapps.barcodescanner.camera;
+package com.a5starcompany.barcodescanner.camera;
 
 import android.os.Handler;
 import android.os.HandlerThread;

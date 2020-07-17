@@ -1,4 +1,4 @@
-package com.journeyapps.barcodescanner;
+package com.a5starcompany.barcodescanner;
 
 import com.google.zxing.ResultPoint;
 

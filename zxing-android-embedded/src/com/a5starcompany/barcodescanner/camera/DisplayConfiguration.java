@@ -1,8 +1,8 @@
-package com.journeyapps.barcodescanner.camera;
+package com.a5starcompany.barcodescanner.camera;
 
 import android.graphics.Rect;
 
-import com.journeyapps.barcodescanner.Size;
+import com.a5starcompany.barcodescanner.Size;
 
 import java.util.List;
 

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.journeyapps.barcodescanner;
+package com.a5starcompany.barcodescanner;
 
 import android.annotation.SuppressLint;
 import android.content.Context;

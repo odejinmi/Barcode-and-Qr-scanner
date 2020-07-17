@@ -10,10 +10,10 @@ import android.widget.ImageView;
 import com.google.zxing.BarcodeFormat;
 import com.google.zxing.ResultPoint;
 import com.google.zxing.client.android.BeepManager;
-import com.journeyapps.barcodescanner.BarcodeCallback;
-import com.journeyapps.barcodescanner.BarcodeResult;
-import com.journeyapps.barcodescanner.DecoratedBarcodeView;
-import com.journeyapps.barcodescanner.DefaultDecoderFactory;
+import com.a5starcompany.barcodescanner.BarcodeCallback;
+import com.a5starcompany.barcodescanner.BarcodeResult;
+import com.a5starcompany.barcodescanner.DecoratedBarcodeView;
+import com.a5starcompany.barcodescanner.DefaultDecoderFactory;
 
 import java.util.Arrays;
 import java.util.Collection;

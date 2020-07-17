@@ -65,7 +65,7 @@ The default is to:
 You can override these options:
 
 ```xml
-<com.journeyapps.barcodescanner.DecoratedBarcodeView
+<com.a5starcompany.barcodescanner.DecoratedBarcodeView
         android:layout_width="..."
         android:layout_height="..."
         app:zxing_use_texture_view="false" (defaults to true, only has an effect on Android API 14+)

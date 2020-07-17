@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.journeyapps.barcodescanner.camera;
+package com.a5starcompany.barcodescanner.camera;
 
 import android.hardware.Camera;
 import android.os.Handler;
