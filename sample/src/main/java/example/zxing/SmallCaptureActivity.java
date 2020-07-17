@@ -1,7 +1,7 @@
 package example.zxing;
 
-import com.journeyapps.barcodescanner.CaptureActivity;
-import com.journeyapps.barcodescanner.DecoratedBarcodeView;
+import com.a5starcompany.barcodescanner.CaptureActivity;
+import com.a5starcompany.barcodescanner.DecoratedBarcodeView;
 
 /**
  * This activity has a margin.

@@ -7,8 +7,8 @@ import android.view.KeyEvent;
 import android.view.View;
 import android.widget.Button;
 
-import com.journeyapps.barcodescanner.CaptureManager;
-import com.journeyapps.barcodescanner.DecoratedBarcodeView;
+import com.a5starcompany.barcodescanner.CaptureManager;
+import com.a5starcompany.barcodescanner.DecoratedBarcodeView;
 
 /**
  * Custom Scannner Activity extending from Activity to display a custom layout form scanner view.

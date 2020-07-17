@@ -16,7 +16,7 @@ import android.widget.Toast;
 import com.google.zxing.client.android.Intents;
 import com.google.zxing.integration.android.IntentIntegrator;
 import com.google.zxing.integration.android.IntentResult;
-import com.journeyapps.barcodescanner.CameraPreview;
+import com.a5starcompany.barcodescanner.CameraPreview;
 
 
 public class MainActivity extends AppCompatActivity {

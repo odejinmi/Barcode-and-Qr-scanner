@@ -6,8 +6,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.KeyEvent;
 
-import com.journeyapps.barcodescanner.CaptureManager;
-import com.journeyapps.barcodescanner.DecoratedBarcodeView;
+import com.a5starcompany.barcodescanner.CaptureManager;
+import com.a5starcompany.barcodescanner.DecoratedBarcodeView;
 
 /**
  * Sample Activity extending from ActionBarActivity to display a Toolbar.

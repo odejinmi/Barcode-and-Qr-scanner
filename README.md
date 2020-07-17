@@ -122,7 +122,7 @@ Sample:
 
 ```xml
 <activity
-		android:name="com.journeyapps.barcodescanner.CaptureActivity"
+		android:name="com.a5starcompany.barcodescanner.CaptureActivity"
 		android:screenOrientation="fullSensor"
 		tools:replace="screenOrientation" />
 ```
