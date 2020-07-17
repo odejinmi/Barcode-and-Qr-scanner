@@ -11,7 +11,7 @@ Features:
 3. Scanning can be performed in landscape or portrait mode.
 4. Camera is managed in a background thread, for fast startup time.
 
-A sample application is available in [Releases](https://github.com/a5starcompany/zxing-android-embedded/releases).
+A sample application is available in [Releases](https://github.com/journeyapps/zxing-android-embedded/releases).
 
 By default, Android SDK 24+ is required because of `zxing:core` 3.4.0. To support SDK 14+, see [Older SDK versions](#older-sdk-versions). 
 
@@ -27,7 +27,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.a5starcompany:zxing-android-embedded:4.1.0'
+    implementation 'com.journeyapps:zxing-android-embedded:4.1.0'
     implementation 'androidx.appcompat:appcompat:1.0.2'
 }
 
@@ -47,7 +47,7 @@ repositories {
 }
 
 dependencies {
-    implementation('com.a5starcompany:zxing-android-embedded:4.1.0') { transitive = false }
+    implementation('com.journeyapps:zxing-android-embedded:4.1.0') { transitive = false }
     implementation 'androidx.appcompat:appcompat:1.0.2'
     implementation 'com.google.zxing:core:3.3.0'
 }
@@ -146,7 +146,7 @@ Sample:
 
 ```xml
 <activity
-		android:name="com.a5starcompany.barcodescanner.CaptureActivity"
+		android:name="com.journeyapps.barcodescanner.CaptureActivity"
 		android:screenOrientation="fullSensor"
 		tools:replace="screenOrientation" />
 ```
@@ -161,7 +161,7 @@ integrator.initiateScan();
 
 See [EMBEDDING](EMBEDDING.md).
 
-For more advanced options, look at the [Sample Application](https://github.com/a5starcompany/zxing-android-embedded/blob/master/sample/src/main/java/example/zxing/MainActivity.java),
+For more advanced options, look at the [Sample Application](https://github.com/journeyapps/zxing-android-embedded/blob/master/sample/src/main/java/example/zxing/MainActivity.java),
 and browse the source code of the library.
 
 This is considered advanced usage, and is not well-documented or supported.
@@ -214,9 +214,9 @@ Licensed under the [Apache License 2.0][7]
 
 
 
-[1]: http://a5starcompany.com
+[1]: http://journeyapps.com
 [2]: https://github.com/zxing/zxing/
 [3]: https://github.com/zxing/zxing/wiki/Scanning-Via-Intent
-[4]: https://github.com/a5starcompany/zxing-android-embedded/blob/2.x/README.md
+[4]: https://github.com/journeyapps/zxing-android-embedded/blob/2.x/README.md
 [5]: zxing-android-embedded/src/com/google/zxing/integration/android/IntentIntegrator.java
 [7]: http://www.apache.org/licenses/LICENSE-2.0

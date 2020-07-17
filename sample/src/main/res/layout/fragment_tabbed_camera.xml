@@ -8,7 +8,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="example.zxing.TabbedScanning$CameraFragment">
 
-    <com.a5starcompany.barcodescanner.CameraPreview
+    <com.journeyapps.barcodescanner.CameraPreview
         android:id="@+id/camera_preview"
         android:layout_width="match_parent"
         android:layout_height="300dp"

@@ -1,6 +1,6 @@
 package example.zxing;
 
-import com.a5starcompany.barcodescanner.CaptureActivity;
+import com.journeyapps.barcodescanner.CaptureActivity;
 
 /**
  * This Activity is exactly the same as CaptureActivity, but has a different orientation
