@@ -22,7 +22,7 @@ import android.hardware.Camera;
 import android.os.Build;
 import android.util.Log;
 
-import com.journeyapps.barcodescanner.camera.CameraSettings;
+import com.a5starcompany.barcodescanner.camera.CameraSettings;
 
 import java.util.Arrays;
 import java.util.Collection;

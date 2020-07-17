@@ -15,8 +15,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.journeyapps.barcodescanner.CameraPreview;
-import com.journeyapps.barcodescanner.DecoratedBarcodeView;
+import com.a5starcompany.barcodescanner.CameraPreview;
+import com.a5starcompany.barcodescanner.DecoratedBarcodeView;
 
 public class TabbedScanning extends AppCompatActivity implements ActionBar.TabListener {
 

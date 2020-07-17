@@ -10,9 +10,9 @@ import android.widget.Button;
 
 import androidx.annotation.NonNull;
 
-import com.journeyapps.barcodescanner.CaptureManager;
-import com.journeyapps.barcodescanner.DecoratedBarcodeView;
-import com.journeyapps.barcodescanner.ViewfinderView;
+import com.a5starcompany.barcodescanner.CaptureManager;
+import com.a5starcompany.barcodescanner.DecoratedBarcodeView;
+import com.a5starcompany.barcodescanner.ViewfinderView;
 
 import java.util.Random;
 

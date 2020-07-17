@@ -26,8 +26,8 @@ in which case you should report the issue here: https://github.com/zxing/zxing/i
 If you have a question on usage of the library, please check the documentation and sample
 application first:
 
-https://github.com/journeyapps/zxing-android-embedded/blob/master/README.md
-https://github.com/journeyapps/zxing-android-embedded/blob/master/EMBEDDING.md
-https://github.com/journeyapps/zxing-android-embedded/tree/master/sample/src/main/java/example/zxing
+https://github.com/a5starcompany/zxing-android-embedded/blob/master/README.md
+https://github.com/a5starcompany/zxing-android-embedded/blob/master/EMBEDDING.md
+https://github.com/a5starcompany/zxing-android-embedded/tree/master/sample/src/main/java/example/zxing
 -->
 

@@ -18,7 +18,7 @@ subprojects {
     }
 
     version = '4.1.0'
-    group = 'com.journeyapps'
+    group = 'com.a5starcompany'
 
     ext.androidTargetSdk = 28
     ext.zxingCore = 'com.google.zxing:core:3.4.0'

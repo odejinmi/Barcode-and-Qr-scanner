@@ -45,7 +45,7 @@ android {
         unitTests.returnDefaultValues = true
     }
     defaultConfig {
-        minSdkVersion 17
+        minSdkVersion 24
     }
 
     buildTypes {
@@ -103,7 +103,7 @@ if (project.hasProperty('bintray_user') && project.hasProperty('bintray_key')) {
         publications = ['maven']
         publish = true
         pkg {
-            userOrg = 'journeyapps'
+            userOrg = 'a5starcompany'
             repo = 'maven'
             name = 'zxing-android-embedded'
         }
